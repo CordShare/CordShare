@@ -10,7 +10,6 @@ CordShare provides a simple way to share your screen with friends, communities, 
 * Screen sharing
 * Built for Brazilian users
 * Simple and lightweight
-* Open source
 * Community driven
 
 ## Goal
