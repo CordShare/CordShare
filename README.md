@@ -1,7 +1,7 @@
 
 # CordShare
 
-An open-source screen sharing solution created for Brazilian users affected by the removal of Discord's screen sharing and livestream features in Brazil
+An screen sharing solution created for Brazilian users affected by the removal of Discord's screen sharing and livestream features in Brazil
 
 CordShare provides a simple way to share your screen with friends, communities, gamers, and other users without relying on Discord's screen sharing system
 
